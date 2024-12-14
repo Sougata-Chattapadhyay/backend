@@ -54,7 +54,3 @@ web_modules/
 
 # Optional npm cache directory
 .npm
-
-.env
-.env.production
-package-lock.json
